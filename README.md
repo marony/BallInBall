@@ -8,7 +8,7 @@
 　実行結果は下に掲載してありますが、物の本によると木星の中に地球は1320個入るらしいのですが、このプログラムでは439個となってしまいました。
 　もっと効率的に小さな球体を配置するように改善しないとだめなようです。次は球体を置く場所を完全にランダムではなく、大きな外周か小さな球体に接していることを条件に加えようと思います。
 
-![木星の大きさ](https://raw.github.com/wiki/marony/BallInBall/images/image1.jpg)
+![木星の大きさ](https://raw.githubusercontent.com/marony/BallInBall/master/images/image1.jpg)
 
 
 ## 実行結果
